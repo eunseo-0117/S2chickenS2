@@ -162,7 +162,7 @@ p {
 
 .section_wrap{
   position: relative;
-  top:130px;
+  top:300px;
 }
 
 /* Home */
@@ -177,7 +177,7 @@ p {
 }
 
 .home__container{
-  height: 100vh;;
+  height: 100vh;
   width: 60vw;
   background: url("./img/home-background.png") center/cover no-repeat;
     position: absolute;
